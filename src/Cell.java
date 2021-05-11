@@ -5,7 +5,7 @@
  * @Description: a model module for storing a singular cell
  */
 
-package src;
+//package src;
 
     /**
     * @brief Class used to create a cell object utilized for tracking empty cells

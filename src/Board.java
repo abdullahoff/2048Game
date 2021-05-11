@@ -5,7 +5,7 @@
  * @Description: a model module for storing the state and status of the game
  */
 
-package src;
+//package src;
 import java.util.Random;
 import java.util.ArrayList;
 import java.util.List;

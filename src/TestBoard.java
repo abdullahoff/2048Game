@@ -1,8 +1,8 @@
-package src;
+//package src;
 
 import org.junit.*;
 import static org.junit.Assert.*;
-import src.Board;
+//import src.Board;
 
 public class TestBoard {
     // Board b;
